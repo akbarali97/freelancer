@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19d3abc3.css",
+    "main.js": "/static/js/main.23fd1349.js",
+    "static/js/787.f988ca01.chunk.js": "/static/js/787.f988ca01.chunk.js",
+    "static/media/banner.png": "/static/media/banner.4a4cc94c1d19bf0212fc.png",
+    "static/media/Pre-Owned A-.webp": "/static/media/Pre-Owned A-.56a6ca01071bcd57718e.webp",
+    "static/media/Pre-Owned A.webp": "/static/media/Pre-Owned A.cadaf1e03c8a1fe9ccdf.webp",
+    "static/media/Pre-Owned A+.webp": "/static/media/Pre-Owned A+.ce2a239a7c2cfd643959.webp",
+    "static/media/Refurbished.webp": "/static/media/Refurbished.be4a43967672092b83be.webp",
+    "static/media/OpenBox.webp": "/static/media/OpenBox.7e485b9b6ed8046dee6b.webp",
+    "static/media/Avenir-Book.ttf": "/static/media/Avenir-Book.ab7aa26986df653dedc1.ttf",
+    "static/media/Avenir-Medium.ttf": "/static/media/Avenir-Medium.90ba4d31a83ca40b27d8.ttf",
+    "static/media/Avenir-Heavy.ttf": "/static/media/Avenir-Heavy.ef8835d185e784ae3f88.ttf",
+    "static/media/Avenir-Black.ttf": "/static/media/Avenir-Black.40a3704bc5953e2f1ded.ttf",
+    "static/media/Freelancer-Icon.png": "/static/media/Freelancer-Icon.4087c935a4bfc708b23d.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.19d3abc3.css.map": "/static/css/main.19d3abc3.css.map",
+    "main.23fd1349.js.map": "/static/js/main.23fd1349.js.map",
+    "787.f988ca01.chunk.js.map": "/static/js/787.f988ca01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19d3abc3.css",
+    "static/js/main.23fd1349.js"
+  ]
+}
